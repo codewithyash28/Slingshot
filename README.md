@@ -23,13 +23,6 @@ Built with TypeScript and HTML.
 
 ---
 
-## Demo
-
-Add a link or GIF here showing a short demo or screenshot.
-
-Example:
-- Live demo: (if hosted) https://your-hosted-app.example
-- Screenshot/GIF: add to `/assets` and reference it here
 
 ---
 
